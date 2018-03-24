@@ -11,13 +11,13 @@ public class demo {
 	@Test
 	public void m()
 	{
-		assertEquals("HCL TECHNOLOGY", "HCL TECHNOLOGY");
+		assertEquals("Child Of Google Company", "Child Of Google Company");
 	}
 	
 	@Test
 	public void m1()
 	{
-		System.out.println("WELCOME TO HCL-LITES");
+		System.out.println("WELCOME TO Google");
 	}
 
 }
