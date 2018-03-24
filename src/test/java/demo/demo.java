@@ -11,7 +11,7 @@ public class demo {
 	@Test
 	public void m()
 	{
-		assertEquals("Child Of Google Company", "Child Of Google Company");
+		assertEquals("Google Company", "Google Company");
 	}
 	
 	@Test
